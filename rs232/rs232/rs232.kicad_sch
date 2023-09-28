@@ -11,7 +11,7 @@
   )
 
   (lib_symbols
-    (symbol "Conn_01x04_Pin_1" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+    (symbol "Connector:Conn_01x04_Pin" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 5.08 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -33,7 +33,7 @@
       (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "Conn_01x04_Pin_1_1_1"
+      (symbol "Conn_01x04_Pin_1_1"
         (polyline
           (pts
             (xy 1.27 -5.08)
@@ -9849,7 +9849,7 @@
     )
   )
 
-  (symbol (lib_name "Conn_01x04_Pin_1") (lib_id "Connector:Conn_01x04_Pin") (at 102.362 39.878 180) (unit 1)
+  (symbol (lib_id "Connector:Conn_01x04_Pin") (at 102.362 39.878 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ff35e657-6840-4d83-8f26-6e02dbefd43e)
     (property "Reference" "J2" (at 101.6 33.274 0)
@@ -9858,7 +9858,7 @@
     (property "Value" "Conn_01x04_Pin" (at 101.727 44.196 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical" (at 102.362 39.878 0)
+    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical" (at 102.362 39.878 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 102.362 39.878 0)
