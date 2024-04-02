@@ -1,0 +1,47 @@
+PCB statistics report
+=====================
+- Date: 2024 January 29, Monday 01:52:54
+- Project: rs232
+- Board name: rs232
+
+Board
+-----
+- Width: 103.9900 mm
+- Height: 100.0000 mm
+- Area: 10399.0000 mm²
+
+Pads
+----
+- Through hole: 142
+- SMD: 0
+- Connector: 0
+- NPTH: 0
+
+Vias
+----
+- Through vias: 28
+- Blind/buried: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |         20 |         0 |    20 |
+|SMD:          |          0 |         0 |     0 |
+|Unspecified:  |          9 |         0 |     9 |
+|Total:        |         29 |         0 |    29 |
+
+Drill holes
+-----------
+
+| Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-----------|-----------|--------|---------|-------------|------------|
+|    74 | Round | 0.8000 mm | 0.8000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    32 | Round | 0.5000 mm | 0.5000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    28 | Round | 0.4000 mm | 0.4000 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|    18 | Round | 1.0000 mm | 1.0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    10 | Round | 1.2000 mm | 1.2000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 1.1000 mm | 1.1000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 3.7000 mm | 3.7000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
